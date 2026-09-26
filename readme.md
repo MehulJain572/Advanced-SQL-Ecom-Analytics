@@ -8,4 +8,4 @@ This project demonstrates the use of SQL to solve real-world business problems f
 - **Advanced Joins:** Multi-table Inner Joins and Left Joins to identify inactive users.
 - **Window Functions:** Using `RANK() OVER(PARTITION BY...)` to find top products per category.
 - **Common Table Expressions (CTEs):** Organizing complex logic for better readability.
-- **Data Aggregation:** Using `GROUP BY`, `SUM`, and `ORDER BY` for revenue analysis.
+- **Data Aggregation:** Using `GROUP BY`, `SUM`, and `ORDER BY` for revenue analysis
